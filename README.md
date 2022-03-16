@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there👋, I'm Joseph
+
+I am an Information Security Analyst specializing in Threat Emulation, Simulation, and Hunting. I am proficient in C and Python, I also dabble with Go from time to time. In my free time I enjoy BBQ, video games, and personal coding/hacking projects.
+
+## Contact Me
+- Email: JosephRocha.CS@gmail.com
+- Linkedin: https://www.linkedin.com/in/josepharocha/
+- Twitter: https://twitter.com/JosephRochaCS
 
 <!--
 **JosephRocha/JosephRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
