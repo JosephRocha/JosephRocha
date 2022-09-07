@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Joseph
 
-I am an Information Security Analyst specializing in Threat Emulation, Simulation, and Hunting. I am proficient in C and Python, I also dabble with Go from time to time. In my free time I enjoy BBQ, video games, and personal coding/hacking projects.
+I am a Security Engineer specializing in Threat Emulation, Simulation, and Hunting. I am proficient in C and Python, I also dabble with Go from time to time. In my free time I enjoy BBQ, video games, and personal coding/hacking projects.
 
 ## Contact Me
 - Email: JosephRocha.CS@gmail.com
